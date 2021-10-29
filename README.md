@@ -8,3 +8,4 @@ usage: `python3 omega_api_frontend -l <list in any format>`
 extra flags: 
 - `-t <format>` Format to convert to, omit to generate all formats
 - `-m` Convert deck to image
+- `-c` Clean output directory
