@@ -6,5 +6,5 @@ Can be used as a module using `from omega_api_frontend import convert_deck`
 usage: `python3 omega_api_frontend -l <list in any format>`
 
 extra flags: 
-- `-t` Format to convert to, omit to generate all formats
+- `-t <format>` Format to convert to, omit to generate all formats
 - `-m` Convert deck to image
