@@ -1,7 +1,7 @@
 # Omega API frontend
 
 Frontend for https://github.com/vonas/omega-api-decks
-Can be used as a module using `from omega_api_frontend import convert_deck`
+Can be used as a module using ```from omega_api_frontend import convert_deck```
 
 usage: `python3 omega_api_frontend -l <list in any format>`
 
